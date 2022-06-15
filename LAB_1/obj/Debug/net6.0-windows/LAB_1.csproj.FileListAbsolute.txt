@@ -1,0 +1,35 @@
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.exe
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.deps.json
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.runtimeconfig.json
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.dll
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\ref\LAB_1.dll
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.pdb
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.AssemblyReference.cache
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.Form1.resources
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.GenerateResource.cache
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfoInputs.cache
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfo.cs
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.dll
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\ref\LAB_1.dll
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.pdb
+C:\Users\Kovalenko\source\repos\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.genruntimeconfig.cache
+E:\lab kov\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.exe
+E:\lab kov\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.deps.json
+E:\lab kov\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.runtimeconfig.json
+E:\lab kov\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.dll
+E:\lab kov\LAB_PR\LAB_1\bin\Debug\net6.0-windows\LAB_1.pdb
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.AssemblyReference.cache
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.Form1.resources
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.Properties.Resources.resources
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.GenerateResource.cache
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfoInputs.cache
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfo.cs
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.CoreCompileInputs.cache
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.dll
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\refint\LAB_1.dll
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.pdb
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\LAB_1.genruntimeconfig.cache
+E:\lab kov\LAB_PR\LAB_1\obj\Debug\net6.0-windows\ref\LAB_1.dll
